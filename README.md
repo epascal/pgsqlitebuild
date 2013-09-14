@@ -1,4 +1,4 @@
-# Cordova/PhoneGap sqlite plugin - Android version
+# Cordova/PhoneGap sqlite plugin
 
 Native interface to sqlite in a Cordova/PhoneGap plugin, working to follow the HTML5 Web SQL API as close as possible.
 
