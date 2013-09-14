@@ -10,7 +10,7 @@
         A Cordova/PhoneGap plugin to open and use sqlite databases on Android close to HTML5 Web SQL API.
     </description>
 
-    <license>MIT or Apache</license>
+    <license>MIT</license>
 
     <engines>
         <engine name="cordova" version=">=3.0.0" />
